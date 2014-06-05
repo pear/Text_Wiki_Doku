@@ -21,15 +21,15 @@
             "Text": "./"
         }
     },
-    "description": "More info available on: http://pear.php.net/package/Text_Wiki",
+    "description": "More info available on: http://pear.php.net/package/Text_Wiki_Doku",
     "include-path": [
         "./"
     ],
     "license": "LGPL",
-    "name": "pear/text_wiki",
+    "name": "pear/text_wiki_doku",
     "support": {
-        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Text_Wiki",
-        "source": "https://github.com/pear/Text_Wiki"
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Text_Wiki_Doku",
+        "source": "https://github.com/pear/Text_Wiki_Doku"
     },
     "type": "library",
     "require": {
